@@ -1,0 +1,5 @@
+greenlet==1.1.2
+peewee==3.15.2
+playwright==1.25.2
+pyee==8.1.0
+websockets==10.1
